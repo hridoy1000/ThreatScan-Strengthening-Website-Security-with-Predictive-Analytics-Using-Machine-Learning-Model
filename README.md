@@ -1,3 +1,7 @@
+* SLide Link:https://docs.google.com/presentation/d/1420THgIxMyjGdvWiZsBRBu03yW8qSg9YJUb2_krObCE/edit#slide=id.g2d2497b7bad_0_192
+
+
+
 # ThreatScan-Strengthening-Website-Security-with-Predictive-Analytics-Using-Machine-Learning-Model
 "ThreatScan" is a comprehensive web security solution leveraging predictive analytics powered by machine learning models. . Join us in revolutionizing website security with cutting-edge technology. Collaborate, contribute, and safeguard the digital world with ThreatScan.
 
