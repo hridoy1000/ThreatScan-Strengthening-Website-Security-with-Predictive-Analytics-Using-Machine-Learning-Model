@@ -16,8 +16,8 @@ This section contains links to the source code repositories related to our proje
 
 - **[Threatscan UNSW USING Decision Tree ](https://www.kaggle.com/code/emammame/threat-scan-unsw)**
 - **[Threatscan KDD19 USING MLP](https://www.kaggle.com/code/emammame/threat-scan-kddcup)**
-- **[Threatscan DDOS Pipeline Model](https://www.kaggle.com/code/emammame/thread-scan-ddos?rvi=1)**
-- **[Threatscan Malicious URLs RandomForest](https://www.kaggle.com/code/hridoy1000/malicious-url-classification-using-randomforest?rvi=1)**
+- **[Threatscan DDOS USING a Pipeline Model](https://www.kaggle.com/code/emammame/thread-scan-ddos?rvi=1)**
+- **[Threatscan Malicious URLs USING RandomForest](https://www.kaggle.com/code/hridoy1000/malicious-url-classification-using-randomforest?rvi=1)**
 
 ## Usage
 
