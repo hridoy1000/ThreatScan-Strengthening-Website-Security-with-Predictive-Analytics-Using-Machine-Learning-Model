@@ -1,9 +1,7 @@
-* Presentaion Slide Link: https://docs.google.com/presentation/d/1420THgIxMyjGdvWiZsBRBu03yW8qSg9YJUb2_krObCE/edit#slide=id.g2d2497b7bad_0_192
-
 
 
 # ThreatScan-Strengthening-Website-Security-with-Predictive-Analytics-Using-Machine-Learning-Model
-"ThreatScan" is a comprehensive web security solution leveraging predictive analytics powered by machine learning models. . Join us in revolutionizing website security with cutting-edge technology. Collaborate, contribute, and safeguard the digital world with ThreatScan.
+"ThreatScan" is a comprehensive web security solution leveraging predictive analytics powered by machine learning models. Join us in revolutionizing website security with cutting-edge technology. Collaborate, contribute, and safeguard the digital world with ThreatScan.
 
 ## Datasets
 
@@ -23,6 +21,7 @@ This section contains links to the source code repositories related to our proje
 - **[Threatscan DDOS USING a Pipeline Model](https://www.kaggle.com/code/emammame/thread-scan-ddos?rvi=1)**
 - **[Threatscan Malicious URLs USING RandomForest](https://www.kaggle.com/code/hridoy1000/malicious-url-classification-using-randomforest?rvi=1)**
   
+## Presentation
 
 - **[Presentaion Slide Link:](https://docs.google.com/presentation/d/1420THgIxMyjGdvWiZsBRBu03yW8qSg9YJUb2_krObCE/edit#slide=id.g2d2497b7bad_0_192)**
 
